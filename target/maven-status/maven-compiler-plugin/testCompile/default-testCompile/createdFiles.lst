@@ -1,3 +1,4 @@
+com\inetBanking\pageObjects\NewCustomerPage.class
 com\inetBanking\testCases\TC_LoginTest_001.class
 com\inetBanking\utilities\ReadConfig.class
 com\inetBanking\testCases\ClassDataProvider.class
@@ -6,3 +7,4 @@ com\inetBanking\testCases\TC_LoginDDT_002.class
 com\inetBanking\utilities\XLUtils.class
 com\inetBanking\pageObjects\LoginPage.class
 com\inetBanking\testCases\BaseClass.class
+com\inetBanking\testCases\TC_NewCustomerTest_003.class

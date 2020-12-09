@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.NoAlertPresentException;
@@ -55,7 +56,7 @@ public class BaseClass {
 	
 	public void captureScreen(WebDriver driver, String screenName) throws IOException {
 		TakesScreenshot scrShot = (TakesScreenshot) driver;
-		String filePath = System.getProperty("user.dir") + "//Screenshots" + screenName + ".png";
+		String filePath = System.getProperty("user.dir") + "/Screenshots/" + screenName + ".png";
 		File SrcFile = scrShot.getScreenshotAs(OutputType.FILE);
 		File DestFile = new File(filePath);
 		FileUtils.copyFile(SrcFile, DestFile);
@@ -69,5 +70,10 @@ public class BaseClass {
 		catch(NoAlertPresentException e) {
 			return false;
 		}
+	}
+	
+	public String getRandomString() {
+		String v = RandomStringUtils.randomAlphanumeric(10);
+		return v;
 	}
 }
