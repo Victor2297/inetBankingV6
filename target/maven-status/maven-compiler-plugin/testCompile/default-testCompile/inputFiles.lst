@@ -1,6 +1,7 @@
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\BaseClass.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\ClassDataProvider.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\TC_LoginTest_001.java
+C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\pageObjects\EditCustomerPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\pageObjects\LoginPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\utilities\Reporting.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\TC_LoginDDT_002.java
@@ -8,3 +9,4 @@ C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\ut
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\pageObjects\NewCustomerPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\TC_NewCustomerTest_003.java
 C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\utilities\XLUtils.java
+C:\Users\Victor\eclipse-workspace\inetBankingV6\src\test\java\com\inetBanking\testCases\TC_EditCustomerTest_004.java

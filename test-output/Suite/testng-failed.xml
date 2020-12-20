@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_NewCustomerTest_003">
+      <class name="com.inetBanking.testCases.TC_EditCustomerTest_004">
         <methods>
-          <include name="createNewCustomer"/>
           <include name="setup"/>
           <include name="quitBrowser"/>
+          <include name="editCustomer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_NewCustomerTest_003 -->
+      </class> <!-- com.inetBanking.testCases.TC_EditCustomerTest_004 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

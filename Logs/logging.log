@@ -271,3 +271,89 @@
 2020-12-10 00:59:00 INFO  log:17 - Entered username
 2020-12-10 00:59:02 INFO  log:19 - Entered password
 2020-12-10 00:59:13 INFO  log:48 - Test Passed
+2020-12-20 22:42:54 INFO  log:16 - Entered username
+2020-12-20 22:42:55 INFO  log:18 - Entered password
+2020-12-20 22:43:00 INFO  log:25 - The page is openned
+2020-12-20 22:43:00 INFO  log:27 - The customer ID is entered
+2020-12-20 22:43:04 INFO  log:39 - Entered address
+2020-12-20 22:43:05 INFO  log:41 - Entered city
+2020-12-20 22:43:05 INFO  log:43 - Entered state
+2020-12-20 22:43:05 INFO  log:45 - Entered pin
+2020-12-20 22:43:09 INFO  log:57 - Test passed
+2020-12-20 22:43:45 INFO  log:16 - Entered username
+2020-12-20 22:43:45 INFO  log:18 - Entered password
+2020-12-20 22:43:50 INFO  log:25 - The page is openned
+2020-12-20 22:43:50 INFO  log:27 - The customer ID is entered
+2020-12-20 22:43:54 INFO  log:34 - Test failed
+2020-12-20 22:44:41 INFO  log:16 - Entered username
+2020-12-20 22:44:42 INFO  log:18 - Entered password
+2020-12-20 22:44:47 INFO  log:25 - The page is openned
+2020-12-20 22:44:47 INFO  log:27 - The customer ID is entered
+2020-12-20 22:44:51 INFO  log:39 - Entered address
+2020-12-20 22:44:52 INFO  log:41 - Entered city
+2020-12-20 22:44:52 INFO  log:43 - Entered state
+2020-12-20 22:44:52 INFO  log:45 - Entered pin
+2020-12-20 22:44:56 INFO  log:52 - Test failed
+2020-12-20 23:31:32 INFO  log:16 - Entered username
+2020-12-20 23:31:33 INFO  log:18 - Entered password
+2020-12-20 23:31:38 INFO  log:25 - The page is openned
+2020-12-20 23:31:38 INFO  log:27 - The customer ID is entered
+2020-12-20 23:31:42 INFO  log:39 - Entered address
+2020-12-20 23:31:42 INFO  log:41 - Entered city
+2020-12-20 23:31:42 INFO  log:43 - Entered state
+2020-12-20 23:31:43 INFO  log:45 - Entered pin
+2020-12-20 23:31:47 INFO  log:57 - Test passed
+2020-12-20 23:35:00 INFO  log:16 - Entered username
+2020-12-20 23:35:00 INFO  log:18 - Entered password
+2020-12-20 23:35:05 INFO  log:25 - The page is openned
+2020-12-20 23:35:05 INFO  log:27 - The customer ID is entered
+2020-12-20 23:35:10 INFO  log:39 - Entered address
+2020-12-20 23:35:10 INFO  log:41 - Entered city
+2020-12-20 23:35:10 INFO  log:43 - Entered state
+2020-12-20 23:35:10 INFO  log:45 - Entered pin
+2020-12-20 23:35:14 INFO  log:57 - Test passed
+2020-12-20 23:44:51 INFO  log:16 - Entered username
+2020-12-20 23:44:51 INFO  log:18 - Entered password
+2020-12-20 23:44:56 INFO  log:25 - The page is openned
+2020-12-20 23:44:56 INFO  log:27 - The customer ID is entered
+2020-12-20 23:45:00 INFO  log:39 - Entered address
+2020-12-20 23:45:01 INFO  log:41 - Entered city
+2020-12-20 23:45:01 INFO  log:43 - Entered state
+2020-12-20 23:45:01 INFO  log:45 - Entered pin
+2020-12-20 23:45:04 INFO  log:52 - Test failed
+2020-12-21 00:08:38 INFO  log:16 - Entered username
+2020-12-21 00:08:38 INFO  log:18 - Entered password
+2020-12-21 00:08:43 INFO  log:25 - The page is openned
+2020-12-21 00:08:43 INFO  log:27 - The customer ID is entered
+2020-12-21 00:08:48 INFO  log:39 - Entered address
+2020-12-21 00:08:48 INFO  log:41 - Entered city
+2020-12-21 00:08:48 INFO  log:43 - Entered state
+2020-12-21 00:08:48 INFO  log:45 - Entered pin
+2020-12-21 00:08:52 INFO  log:57 - Test passed
+2020-12-21 00:11:57 INFO  log:16 - Entered username
+2020-12-21 00:11:58 INFO  log:18 - Entered password
+2020-12-21 00:12:04 INFO  log:25 - The page is openned
+2020-12-21 00:12:05 INFO  log:27 - The customer ID is entered
+2020-12-21 00:12:10 INFO  log:39 - Entered address
+2020-12-21 00:12:10 INFO  log:41 - Entered city
+2020-12-21 00:12:10 INFO  log:43 - Entered state
+2020-12-21 00:12:11 INFO  log:45 - Entered pin
+2020-12-21 00:12:15 INFO  log:52 - Test failed
+2020-12-21 00:13:16 INFO  log:16 - Entered username
+2020-12-21 00:13:17 INFO  log:18 - Entered password
+2020-12-21 00:13:22 INFO  log:25 - The page is openned
+2020-12-21 00:13:22 INFO  log:27 - The customer ID is entered
+2020-12-21 00:13:27 INFO  log:39 - Entered address
+2020-12-21 00:13:27 INFO  log:41 - Entered city
+2020-12-21 00:13:27 INFO  log:43 - Entered state
+2020-12-21 00:13:27 INFO  log:45 - Entered pin
+2020-12-21 00:13:32 INFO  log:57 - Test passed
+2020-12-21 00:14:45 INFO  log:16 - Entered username
+2020-12-21 00:14:46 INFO  log:18 - Entered password
+2020-12-21 00:14:51 INFO  log:25 - The page is openned
+2020-12-21 00:14:52 INFO  log:27 - The customer ID is entered
+2020-12-21 00:14:56 INFO  log:39 - Entered address
+2020-12-21 00:14:56 INFO  log:41 - Entered city
+2020-12-21 00:14:56 INFO  log:43 - Entered state
+2020-12-21 00:14:57 INFO  log:45 - Entered pin
+2020-12-21 00:15:01 INFO  log:57 - Test passed
