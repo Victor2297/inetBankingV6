@@ -27,7 +27,7 @@ public class TC_DeleteCustomerTest_005 extends BaseClass {
 		DeleteCustomer dc = new DeleteCustomer(driver);
 		dc.openDeleteCustomerPage();
 		logger.info("The Delete Customer Page is open");
-		dc.setCustomerID("38934");
+		dc.setCustomerID("26310");
 		logger.info("The customer ID is entered");
 		dc.sumbitCustomerID();
 		
