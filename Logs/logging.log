@@ -357,3 +357,175 @@
 2020-12-21 00:14:56 INFO  log:43 - Entered state
 2020-12-21 00:14:57 INFO  log:45 - Entered pin
 2020-12-21 00:15:01 INFO  log:57 - Test passed
+2021-01-10 21:14:00 INFO  log:14 - Entered username
+2021-01-10 21:14:00 INFO  log:16 - Entered password
+2021-01-10 21:14:05 INFO  log:23 - The Delete Customer Page is open
+2021-01-10 21:14:05 INFO  log:25 - The customer ID is intered
+2021-01-10 21:22:21 INFO  log:18 - Entered username
+2021-01-10 21:22:22 INFO  log:20 - Entered password
+2021-01-10 21:22:26 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:22:26 INFO  log:29 - The customer ID is intered
+2021-01-10 21:25:46 INFO  log:18 - Entered username
+2021-01-10 21:25:46 INFO  log:20 - Entered password
+2021-01-10 21:25:50 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:25:50 INFO  log:29 - The customer ID is intered
+2021-01-10 21:27:42 INFO  log:18 - Entered username
+2021-01-10 21:27:42 INFO  log:20 - Entered password
+2021-01-10 21:27:46 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:27:47 INFO  log:29 - The customer ID is intered
+2021-01-10 21:27:50 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 21:28:37 INFO  log:18 - Entered username
+2021-01-10 21:28:37 INFO  log:20 - Entered password
+2021-01-10 21:28:41 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:28:41 INFO  log:29 - The customer ID is intered
+2021-01-10 21:31:06 INFO  log:18 - Entered username
+2021-01-10 21:31:06 INFO  log:20 - Entered password
+2021-01-10 21:31:11 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:31:11 INFO  log:29 - The customer ID is intered
+2021-01-10 21:34:06 INFO  log:18 - Entered username
+2021-01-10 21:34:07 INFO  log:20 - Entered password
+2021-01-10 21:34:11 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:34:11 INFO  log:29 - The customer ID is intered
+2021-01-10 21:41:47 INFO  log:18 - Entered username
+2021-01-10 21:41:47 INFO  log:20 - Entered password
+2021-01-10 21:41:52 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:41:52 INFO  log:29 - The customer ID is entered
+2021-01-10 21:43:23 INFO  log:18 - Entered username
+2021-01-10 21:43:23 INFO  log:20 - Entered password
+2021-01-10 21:43:27 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:43:28 INFO  log:29 - The customer ID is entered
+2021-01-10 21:50:13 INFO  log:18 - Entered username
+2021-01-10 21:50:13 INFO  log:20 - Entered password
+2021-01-10 21:50:18 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:50:18 INFO  log:29 - The customer ID is entered
+2021-01-10 21:53:47 INFO  log:18 - Entered username
+2021-01-10 21:53:48 INFO  log:20 - Entered password
+2021-01-10 21:53:52 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:53:52 INFO  log:29 - The customer ID is entered
+2021-01-10 21:58:57 INFO  log:18 - Entered username
+2021-01-10 21:58:57 INFO  log:20 - Entered password
+2021-01-10 21:59:01 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:59:01 INFO  log:29 - The customer ID is entered
+2021-01-10 21:59:42 INFO  log:18 - Entered username
+2021-01-10 21:59:42 INFO  log:20 - Entered password
+2021-01-10 21:59:47 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 21:59:47 INFO  log:29 - The customer ID is entered
+2021-01-10 22:03:55 INFO  log:18 - Entered username
+2021-01-10 22:03:56 INFO  log:20 - Entered password
+2021-01-10 22:04:00 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:04:00 INFO  log:29 - The customer ID is entered
+2021-01-10 22:04:01 INFO  log:38 - Test failed : Please fill all fields
+2021-01-10 22:05:34 INFO  log:18 - Entered username
+2021-01-10 22:05:34 INFO  log:20 - Entered password
+2021-01-10 22:05:38 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:05:38 INFO  log:29 - The customer ID is entered
+2021-01-10 22:06:19 INFO  log:18 - Entered username
+2021-01-10 22:06:19 INFO  log:20 - Entered password
+2021-01-10 22:06:24 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:06:24 INFO  log:29 - The customer ID is entered
+2021-01-10 22:06:25 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 22:06:56 INFO  log:18 - Entered username
+2021-01-10 22:06:56 INFO  log:20 - Entered password
+2021-01-10 22:07:00 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:07:40 INFO  log:18 - Entered username
+2021-01-10 22:07:40 INFO  log:20 - Entered password
+2021-01-10 22:07:44 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:07:44 INFO  log:29 - The customer ID is entered
+2021-01-10 22:07:45 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 22:08:12 INFO  log:18 - Entered username
+2021-01-10 22:08:12 INFO  log:20 - Entered password
+2021-01-10 22:08:17 INFO  log:27 - The Delete Customer Page is open
+2021-01-10 22:08:17 INFO  log:29 - The customer ID is entered
+2021-01-10 22:11:44 INFO  log:19 - Entered username
+2021-01-10 22:11:45 INFO  log:21 - Entered password
+2021-01-10 22:11:49 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:11:49 INFO  log:30 - The customer ID is entered
+2021-01-10 22:11:50 INFO  log:60 - Test failed : Customer does not exist!!
+2021-01-10 22:12:47 INFO  log:19 - Entered username
+2021-01-10 22:12:47 INFO  log:21 - Entered password
+2021-01-10 22:12:52 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:12:52 INFO  log:30 - The customer ID is entered
+2021-01-10 22:12:52 INFO  log:60 - Test failed : Customer does not exist!!
+2021-01-10 22:21:55 INFO  log:19 - Entered username
+2021-01-10 22:21:55 INFO  log:21 - Entered password
+2021-01-10 22:22:00 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:22:00 INFO  log:30 - The customer ID is entered
+2021-01-10 22:22:55 INFO  log:19 - Entered username
+2021-01-10 22:22:55 INFO  log:21 - Entered password
+2021-01-10 22:23:00 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:23:00 INFO  log:30 - The customer ID is entered
+2021-01-10 22:23:00 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 22:23:18 INFO  log:19 - Entered username
+2021-01-10 22:23:18 INFO  log:21 - Entered password
+2021-01-10 22:23:22 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:23:22 INFO  log:30 - The customer ID is entered
+2021-01-10 22:24:12 INFO  log:19 - Entered username
+2021-01-10 22:24:13 INFO  log:21 - Entered password
+2021-01-10 22:24:17 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:24:17 INFO  log:30 - The customer ID is entered
+2021-01-10 22:24:41 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 22:25:09 INFO  log:19 - Entered username
+2021-01-10 22:25:09 INFO  log:21 - Entered password
+2021-01-10 22:25:14 INFO  log:28 - The Delete Customer Page is open
+2021-01-10 22:25:14 INFO  log:30 - The customer ID is entered
+2021-01-10 22:31:54 INFO  log:20 - Entered username
+2021-01-10 22:31:54 INFO  log:22 - Entered password
+2021-01-10 22:31:58 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:31:58 INFO  log:31 - The customer ID is entered
+2021-01-10 22:34:54 INFO  log:20 - Entered username
+2021-01-10 22:34:55 INFO  log:22 - Entered password
+2021-01-10 22:34:59 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:34:59 INFO  log:31 - The customer ID is entered
+2021-01-10 22:35:03 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 22:35:46 INFO  log:20 - Entered username
+2021-01-10 22:35:46 INFO  log:22 - Entered password
+2021-01-10 22:35:50 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:35:50 INFO  log:31 - The customer ID is entered
+2021-01-10 22:35:51 INFO  log:55 - Test failed : Customer does not exist!!
+2021-01-10 22:40:38 INFO  log:20 - Entered username
+2021-01-10 22:40:38 INFO  log:22 - Entered password
+2021-01-10 22:40:42 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:40:42 INFO  log:31 - The customer ID is entered
+2021-01-10 22:40:46 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 22:44:13 INFO  log:20 - Entered username
+2021-01-10 22:44:13 INFO  log:22 - Entered password
+2021-01-10 22:44:18 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:44:18 INFO  log:31 - The customer ID is entered
+2021-01-10 22:44:22 INFO  log:50 - Test passed : Customer deleted Successfully
+2021-01-10 22:46:42 INFO  log:20 - Entered username
+2021-01-10 22:46:43 INFO  log:22 - Entered password
+2021-01-10 22:46:47 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:46:48 INFO  log:31 - The customer ID is entered
+2021-01-10 22:46:51 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 22:53:44 INFO  log:20 - Entered username
+2021-01-10 22:53:44 INFO  log:22 - Entered password
+2021-01-10 22:53:48 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 22:53:48 INFO  log:31 - The customer ID is entered
+2021-01-10 22:53:52 INFO  log:50 - Test passed : Customer deleted Successfully
+2021-01-10 23:06:29 INFO  log:20 - Entered username
+2021-01-10 23:06:29 INFO  log:22 - Entered password
+2021-01-10 23:13:51 INFO  log:20 - Entered username
+2021-01-10 23:13:52 INFO  log:22 - Entered password
+2021-01-10 23:13:56 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 23:13:57 INFO  log:31 - The customer ID is entered
+2021-01-10 23:14:00 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 23:28:50 INFO  log:20 - Entered username
+2021-01-10 23:28:50 INFO  log:22 - Entered password
+2021-01-10 23:28:55 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 23:28:55 INFO  log:31 - The customer ID is entered
+2021-01-10 23:28:59 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 23:34:55 INFO  log:20 - Entered username
+2021-01-10 23:34:55 INFO  log:22 - Entered password
+2021-01-10 23:34:59 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 23:34:59 INFO  log:31 - The customer ID is entered
+2021-01-10 23:35:03 INFO  log:50 - Test passed : Customer deleted Successfully
+2021-01-10 23:42:12 INFO  log:20 - Entered username
+2021-01-10 23:42:13 INFO  log:22 - Entered password
+2021-01-10 23:42:17 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 23:42:17 INFO  log:31 - The customer ID is entered
+2021-01-10 23:42:22 INFO  log:56 - Test failed : Customer does not exist!!
+2021-01-10 23:43:54 INFO  log:20 - Entered username
+2021-01-10 23:43:54 INFO  log:22 - Entered password
+2021-01-10 23:44:00 INFO  log:29 - The Delete Customer Page is open
+2021-01-10 23:44:00 INFO  log:31 - The customer ID is entered
+2021-01-10 23:44:04 INFO  log:50 - Test passed : Customer deleted Successfully

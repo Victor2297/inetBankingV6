@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24193" started-at="2020-12-20T23:31:23 EET" finished-at="2020-12-20T23:31:48 EET">
+  <suite name="Suite" duration-ms="18184" started-at="2021-01-10T22:44:04 EET" finished-at="2021-01-10T22:44:23 EET">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24193" started-at="2020-12-20T23:31:23 EET" finished-at="2020-12-20T23:31:48 EET">
-      <class name="com.inetBanking.testCases.TC_EditCustomerTest_004">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_EditCustomerTest_004@3b088d51]" name="setup" is-config="true" duration-ms="8586" started-at="2020-12-20T23:31:24 EET" finished-at="2020-12-20T23:31:32 EET">
+    <test name="Test" duration-ms="18184" started-at="2021-01-10T22:44:04 EET" finished-at="2021-01-10T22:44:23 EET">
+      <class name="com.inetBanking.testCases.TC_DeleteCustomerTest_005">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_DeleteCustomerTest_005@3b088d51]" name="setup" is-config="true" duration-ms="8381" started-at="2021-01-10T22:44:05 EET" finished-at="2021-01-10T22:44:13 EET">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="editCustomer()[pri:0, instance:com.inetBanking.testCases.TC_EditCustomerTest_004@3b088d51]" name="editCustomer" duration-ms="14607" started-at="2020-12-20T23:31:32 EET" finished-at="2020-12-20T23:31:47 EET">
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.inetBanking.testCases.TC_DeleteCustomerTest_005@3b088d51]" name="deleteCustomer" duration-ms="8709" started-at="2021-01-10T22:44:13 EET" finished-at="2021-01-10T22:44:22 EET">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- editCustomer -->
-        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_EditCustomerTest_004@3b088d51]" name="quitBrowser" is-config="true" duration-ms="790" started-at="2020-12-20T23:31:47 EET" finished-at="2020-12-20T23:31:48 EET">
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_DeleteCustomerTest_005@3b088d51]" name="quitBrowser" is-config="true" duration-ms="804" started-at="2021-01-10T22:44:22 EET" finished-at="2021-01-10T22:44:23 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- com.inetBanking.testCases.TC_EditCustomerTest_004 -->
+      </class> <!-- com.inetBanking.testCases.TC_DeleteCustomerTest_005 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
